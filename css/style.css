@@ -1,0 +1,65 @@
+h2 {
+    color: rgb(0, 0, 0);
+        /* como mudar a cor do texto  */
+}
+
+   
+body {
+    background-color: rgb(63, 133, 252);
+        /* como mudar a cor do fundo da página */
+}
+
+.card_do_produto {
+    
+    border: 2px solid black;
+    width: 200px;
+    height: 240px;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+
+}
+                 
+.folhas {
+    width: 180px;   
+    border: 2px solid black;
+
+}
+
+.produtos {
+    display: flex;
+     flex-wrap: wrap;
+
+}
+
+header {
+    background-color: #000000;
+    padding:7px solid black;
+    text-align: left; 
+    
+
+}
+
+.card_material {
+    width: 200px;
+    height: 240px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.imagem_material {
+    width: 180px;
+    border: 2px solid black;
+}
+
+.material {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p {
+    color: rgb(3, 245, 7);
+        /* como mudar a cor do texto  */
+}
